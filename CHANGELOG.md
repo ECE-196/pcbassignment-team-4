@@ -1,14 +1,14 @@
 # CHANGELOG
 
-## {DATE}
+## {05/04/24}
 ### Contributors
 Ayah, Cesar, Sharida
 
 ### Added
-A schematic, layout, and a 3d design of the PCB.
+Updated KiCad Project and export file
 
 ### Changed
-Added a final pcb file and a gerber file.
+SMD sizes from 0201 to 0603
 
 ### Removed
-Nothing removed
+Old export and kicad project zip
